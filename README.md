@@ -30,3 +30,7 @@ Not easy to use.  Due to its original nature as a analysis tool for personal use
 -Escape - Exit to main menu
 
 -Mouse - hover over the track to get stats at that point
+
+**GitHub**
+
+Couldnt figure out how to upload an entire folder so the source code is in a zip file.  Releases are availible at https://apex01.itch.io/rowing
