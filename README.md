@@ -1,3 +1,5 @@
+**Rowing Analysis**
+
 This tool helps analyse the data of individual rowing boats after a piece and can also simulate side-by-side racing between boats competing in a time trial event like a head race.
 
 
