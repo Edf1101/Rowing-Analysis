@@ -2,14 +2,14 @@ This tool helps analyse the data of individual rowing boats after a piece and ca
 
 
 
-Notes:
+**Notes:**
 
 Very unfinished  - just uploaded so others can have a go
 Untested on other devices - may not necessarily work on laptops other than my own (especially macs)
 Not easy to use.  Due to its original nature as a analysis tool for personal use its not easy to setup and use.
 
 
-Instructions :  
+**Instructions : ** 
 
 1. You need to obtain a suitable GPX file from the piece . The only tested file format that works so far is by uploading the activity to strava then downloading it from the activity page using https://mapstogpx.com/strava/ 
 
@@ -19,7 +19,7 @@ Instructions :
 
 
 
-Controls
+**Controls**
 
 -WASD / Arrows - Move around the scenes
 
